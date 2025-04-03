@@ -22,4 +22,4 @@ elif random_number == 8:
 elif random_number == 9:
     print("Very doubtful.")
 else:
-    print("Error: Something went wrong!")  # Just in case
+    print("Error: Something went wrong!")
